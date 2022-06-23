@@ -1,0 +1,1 @@
+scoreboard objectives add ewha_dash_flytime dummy

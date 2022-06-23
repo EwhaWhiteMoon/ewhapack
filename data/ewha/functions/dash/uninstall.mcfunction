@@ -1,0 +1,1 @@
+scoreboard objectives remove ewha_dash_flytime

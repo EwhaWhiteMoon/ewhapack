@@ -1,0 +1,3 @@
+scoreboard objectives remove ewha_shot_cooldown
+scoreboard objectives remove ewha_shot_value
+scoreboard objectives remove ewha_shot_target
